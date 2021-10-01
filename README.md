@@ -1,3 +1,3 @@
 #Dynamic-foodsiteSPA-with-react-router
 
-Live site link : <a href="https://foods-apa-react-router.netlify.app/">Click Here</a>
+Live site link : <a href="https://foods-spa-react-router.netlify.app/">Click Here</a>
