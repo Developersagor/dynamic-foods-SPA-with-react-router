@@ -1,0 +1,18 @@
+.detailDiv {
+  padding: 20px;
+  text-align: center;
+}
+.detailDiv img {
+  width: 20%;
+}
+.ytBtn {
+  text-decoration: none;
+  background-color: red;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+  outline: none;
+  border: none;
+  margin-left: 10px;
+}

@@ -1,0 +1,17 @@
+.mealImg {
+  width: 50%;
+  border-radius: 50%;
+}
+.meal {
+  background-color: #eee;
+  padding: 15px;
+  border-radius: 5px;
+}
+.mealBtn {
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+}
